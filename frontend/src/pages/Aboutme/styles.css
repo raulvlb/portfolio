@@ -1,0 +1,15 @@
+.aboutme {
+    margin: 0 auto;
+    margin-top: 70px;
+    color: #EAE2B7;
+}
+
+.perfil-img {
+    margin: 0 auto;
+    margin-top: 10px;
+}
+
+.aboutme h1 {
+    font-weight: 700;
+    font-size: 50px;    
+}

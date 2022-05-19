@@ -1,0 +1,38 @@
+header {
+    height: 60px;
+    background-color: var(--color-primary);
+    display: flex;
+    align-items: center;
+    border-bottom: 3px solid #F77F00;
+}
+
+.portfolio-nav-content {
+    display: flex;
+    justify-content: space-between;
+    color: #EAE2B7;
+    align-items: center;
+}
+
+.cv-nav-btn {
+    background-color: #D62828;
+    border-radius: 10px;
+    text-align: center;
+    align-items: center;
+    padding: 10px;
+}
+
+.ancora-nav-content{
+    display:flex;
+    align-items: center;
+    margin-left: 580px;
+}
+
+.ancora-nav-content a{
+    margin-right: 20px;;
+}
+
+.portfolio-nav-content h1 {
+    font-weight: 700;
+    margin: 0 auto;
+    font-size: 15px;
+}
